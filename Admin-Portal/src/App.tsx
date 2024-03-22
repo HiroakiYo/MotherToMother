@@ -15,6 +15,7 @@ import UsersPage from "./pages/UsersPage";
 import AdminsPage from "./pages/AdminsPage";
 
 export const App = () => {
+  console.log("App")
   return (
     <BrowserRouter>
       <AuthProvider>
