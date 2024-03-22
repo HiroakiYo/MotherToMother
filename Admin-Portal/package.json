@@ -46,6 +46,5 @@
     "prettier": "^3.0.3",
     "typescript": "^5.1.6",
     "vite": "^4.4.8"
-  }, 
-  "homepage": "{https://main.d2ckefqvxhbvlx.amplifyapp.com/}/#/"
+  }
 }
